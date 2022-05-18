@@ -4,7 +4,6 @@ C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\ne
 C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\DotNet_ELK.deps.json
 C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\DotNet_ELK.runtimeconfig.json
 C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\DotNet_ELK.dll
-C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\ref\DotNet_ELK.dll
 C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\DotNet_ELK.pdb
 C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -41,3 +40,5 @@ C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\ne
 C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
 C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
 C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\bin\Debug\net6.0\Nest.dll
+C:\Users\TRPOS\Desktop\ElasticSearch_NETCore_Project\src\DotNet_ELK\obj\Debug\net6.0\refint\DotNet_ELK.dll
