@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mM3ujwYyRWnFzmsP7O7alLBDNL8Pj0gYkzgOxlA5Rcw=",
+  "Source": "DotNet_ELK",
+  "BasePath": "_content/DotNet_ELK",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
